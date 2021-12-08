@@ -1,0 +1,14 @@
+﻿##########################
+# Unreal generated files #
+##########################
+*.sln
+Binaries
+Content
+DerivedDataCache
+Intermediate
+Saved
+
+######################
+# VS generated files #
+######################
+*.VC.db
